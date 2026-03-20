@@ -28,4 +28,4 @@ html_context = {
 }
 
 # Base URL for sitemap
-html_baseurl = 'https://ancestry.readthedocs.io/en/latest/'
+html_baseurl = 'https://ancestryfamilytreee.readthedocs.io/en/latest/'
