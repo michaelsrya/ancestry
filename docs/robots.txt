@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://ancestry.readthedocs.io/en/latest/
+Sitemap: https://ancestryfamilytreee.readthedocs.io/en/latest/
